@@ -9,5 +9,5 @@
     
     
     group :development do
-    gem "pry", :group => "development"
+    gem "pry"
     end
